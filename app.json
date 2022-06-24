@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "abbeys-player",
+    "slug": "abbeys-player",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "abbeys-player"
+}
